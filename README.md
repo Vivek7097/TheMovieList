@@ -7,7 +7,7 @@ The Movie List is a web application that allows users to browse, search, and rat
 - Browse movies by genre, popularity, release date, and more
 - Search movies by title, director, cast, or keyword
 - View movie details, such as synopsis, ratings, reviews, and trailers
-- Rate movies and see the average rating from other users
+- See the average rating from other users
 - Create and manage your own watchlist and favorites
 - Responsive layout that adapts to different screen sizes and devices
 
